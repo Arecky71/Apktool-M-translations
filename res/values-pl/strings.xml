@@ -282,8 +282,8 @@
 	<string name="exit">Zamknij</string>
 	<string name="ext_editor">Edytor zewnętrzny</string>
 	<string name="ext_editor_summary">Otwórz pliki tekstowe w zewnętrznym edytorze</string>
-	<string name="extract">Wypakój </string>
-	<string name="extract_icon">Wypakój Ikony</string>
+	<string name="extract">Wypakuj </string>
+	<string name="extract_icon">Wypakuj Ikony</string>
 	<string name="extraction">Wypakowywanie: %s</string>
 	<string name="failed_open">Nie można otworzyć „%s”!</string>
 	<string name="failed_openset">Nie udało się otworzyć ustawień!</string>
